@@ -11,10 +11,14 @@
 -->
 
 <h2> 📈 &nbsp;My GitHub History</h2>
-<a href="https://github.com/thepiyushmalhotra">
+<a href="https://github.com/MatFreitas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatFreitas&theme=noctis_minimus&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatFreitas&theme=noctis_minimus&layout=compact" />
 </a>
+
+<h2> 💡 &nbsp;Projects that make me proud</h2>
+<img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatFreitas&repo=spotify-popularity&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+<img height="180em" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatFreitas&repo=EC2-Boto3&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
