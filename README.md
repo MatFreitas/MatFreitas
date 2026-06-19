@@ -1,6 +1,7 @@
 <p align="center"> 
   <h1 align="center">Hi, I'm Matheus Freitas!</h1>
-  <h4 align="center">💻 Computer Engineering Student at Insper</h4>
+  <h4 align="center">💻 Computer Engineer</h4>
+  <h4 align="center">Insper • NTT Data</h4>
   <h4 align="center">📍  São Paulo, Brazil</h4>
 </p>
 
@@ -10,13 +11,7 @@
 * 
 -->
 
-<h2> 📈 &nbsp;My GitHub History</h2>
-<a href="https://github.com/MatFreitas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatFreitas&theme=noctis_minimus&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatFreitas&theme=noctis_minimus&layout=compact" />
-</a>
-
-<h2> 💡 &nbsp;Projects that make me proud</h2>
+<h2>&nbsp;Projects that make me proud</h2>
 
 <a href="https://github.com/MatFreitas/spotify-popularity">
   <img height="180em" align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatFreitas&repo=spotify-popularity&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
@@ -30,7 +25,7 @@
   <img height="180em" align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatFreitas&repo=diabetes-predictor&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 </a>
 
-<h2> 🧪 &nbsp;Compute Shader & Simulation Projects</h2>
+<h2>&nbsp;Shader Simulations</h2>
 
 <table>
   <tr>
@@ -76,21 +71,28 @@
 
 </table>
 
+<h2> 📈 &nbsp;My GitHub History</h2>
+<a href="https://github.com/MatFreitas">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatFreitas&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatFreitas&theme=noctis_minimus&layout=compact" />
+</a>
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+
 <p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="45" height="45"/>    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>      
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solidity" width="45" height="45"/>    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/>   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" alt="ruby" width="45" height="45"/>    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/>    
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="CSharp Badge"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity Badge"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby Badge"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Badge"/>
 </p>
 
 ## 👋 Contact me
