@@ -14,20 +14,19 @@ Currently, as a Software Engineer at NTT DATA, I worked on the development of im
 
 * 
 -->
-
 <h2>&nbsp;Projects that make me proud</h2>
 
-<a href="https://github.com/MatFreitas/spotify-popularity">
-  <img height="180em" align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatFreitas&repo=spotify-popularity&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-</a>
-
-<a href="https://github.com/MatFreitas/EC2-Boto3">
-  <img height="180em" align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatFreitas&repo=EC2-Boto3&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-</a>
-
-<a href="https://github.com/MatFreitas/diabetes-predictor">
-  <img height="180em" align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatFreitas&repo=diabetes-predictor&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-</a>
+<p align="center">
+  <a href="https://github.com/MatFreitas/spotify-popularity">
+    <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatFreitas&repo=spotify-popularity&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="spotify-popularity"/>
+  </a>
+  <a href="https://github.com/MatFreitas/EC2-Boto3">
+    <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatFreitas&repo=EC2-Boto3&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="EC2-Boto3"/>
+  </a>
+  <a href="https://github.com/MatFreitas/diabetes-predictor">
+    <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatFreitas&repo=diabetes-predictor&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="diabetes-predictor"/>
+  </a>
+</p>
 
 <h2>&nbsp;Shader Simulations</h2>
 
