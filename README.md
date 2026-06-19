@@ -30,6 +30,31 @@
   <img height="180em" align="center" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatFreitas&repo=diabetes-predictor&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 </a>
 
+<h2> 🧪 &nbsp;Compute Shader & Simulation Projects</h2>
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a>
+        <img src="edge-of-chaos.gif" alt="Edge of Chaos simulation" width="100%">
+      </a>
+      <br>
+      <b>Edge of Chaos</b>
+      <br>
+      <sub>Compute shader simulation of emergent particle behavior.</sub>
+    </td>
+    <td align="center" width="50%">
+      <a>
+        <img src="assets/reaction-diffusion.gif" alt="Reaction Diffusion" width="100%">
+      </a>
+      <br>
+      <b>Reaction Diffusion</b>
+      <br>
+      <sub>Real-time GPU particle system.</sub>
+    </td>
+  </tr>
+</table>
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>  
