@@ -36,7 +36,7 @@
   <tr>
     <td align="center" width="50%">
       <a>
-        <img src="edge-of-chaos.gif" alt="Edge of Chaos simulation" width="100%">
+        <img src="edge-of-chaos.gif" alt="Edge of Chaos" width="100%">
       </a>
       <br>
       <b>Edge of Chaos</b>
@@ -45,7 +45,7 @@
     </td>
     <td align="center" width="50%">
       <a>
-        <img src="assets/reaction-diffusion.gif" alt="Reaction Diffusion" width="100%">
+        <img src="reaction-diffusion.gif" alt="Reaction Diffusion" width="100%">
       </a>
       <br>
       <b>Reaction Diffusion</b>
