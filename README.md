@@ -19,7 +19,7 @@ Currently, as a Software Engineer at NTT DATA, I worked on the development of im
 <p align="center">
   <a href="https://github.com/MatFreitas/Renderer">
   <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatFreitas&repo=Renderer&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Renderer"/>
-  </a>
+</a>
   <a href="https://github.com/MatFreitas/spotify-popularity">
     <img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MatFreitas&repo=spotify-popularity&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="spotify-popularity"/>
   </a>
