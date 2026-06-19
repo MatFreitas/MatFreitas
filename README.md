@@ -53,6 +53,18 @@
       <sub>Two chemicals constantly reacting and diffusing through space.</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a>
+        <img src="MNCA.gif" alt="Multiple Neighborhood Cellular Automata" width="100%">
+      </a>
+      <br>
+      <b>Multiple Neighborhood Cellular Automata</b>
+      <br>
+      <sub>Cellular Automata using multiple neighborhoods, arranged in toroidal shapes.</sub>
+    </td>
+  </tr>
+
 </table>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
