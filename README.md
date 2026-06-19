@@ -41,7 +41,7 @@
       <br>
       <b>Edge of Chaos</b>
       <br>
-      <sub>Compute shader simulation of emergent particle behavior.</sub>
+      <sub>Christopher Langton’s 1990 idea of “Computation at the Edge of Chaos”.</sub>
     </td>
     <td align="center" width="50%">
       <a>
@@ -50,7 +50,7 @@
       <br>
       <b>Reaction Diffusion</b>
       <br>
-      <sub>Real-time GPU particle system.</sub>
+      <sub>Two chemicals constantly reacting and diffusing through space.</sub>
     </td>
   </tr>
 </table>
