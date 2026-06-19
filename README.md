@@ -3,6 +3,10 @@
   <h4 align="center">💻 Computer Engineer</h4>
   <h4 align="center">Insper • NTT Data</h4>
   <h4 align="center">📍  São Paulo, Brazil</h4>
+  <h6 align="center">I am a Computer Engineer. My graduation in Computer Engineering at Insper played a major role in shaping the way I approach engineering problems. It exposed me to a broad range of disciplines, including Computer Graphics, Artificial Intelligence, Machine Learning, Data Science and others.<br></br>
+
+Currently, as a Software Engineer at NTT DATA, I worked on the development of immersive XR and Spatial Computing applications, contributing across the full development lifecycle, from technical development to cross-platform deployment. Developed XR applications using Unity and C# for Apple Vision Pro, Meta Quest, Microsoft HoloLens, iOS, and Android platforms.
+  </h6>
 </p>
 
 <!--
