@@ -63,6 +63,15 @@
       <br>
       <sub>Cellular Automata using multiple neighborhoods, arranged in toroidal shapes.</sub>
     </td>
+    <td align="center" width="50%">
+      <a>
+        <img src="trail-of-agents.gif" alt="Trail of Agents" width="100%">
+      </a>
+      <br>
+      <b>Trail of Agents</b>
+      <br>
+      <sub>Stigmergy simulation, a behavior similar to how ants or slimes work.</sub>
+    </td>
   </tr>
 
 </table>
